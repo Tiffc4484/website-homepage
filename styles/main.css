@@ -79,6 +79,11 @@ header .twitter {
 	width: 33px;
 }
 
+.lead {
+	padding: 70px;
+        display: inline-block;	
+}
+
 /* BODY */
 section.jumbotron {
 	display: flex;
