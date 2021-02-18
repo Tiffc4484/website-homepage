@@ -118,6 +118,22 @@ section section li.list-group-item {
 	background: rgba(224, 218, 220, 0.75);
 }
 /* BODY -- ABOUT */
+
+
+.about {
+	padding: 50px;	
+}
+
+.about.h2 {
+	padding-left: 70px;	
+}
+
+.about.p {
+	padding-left: 70px;
+	padding-top: 20px;
+}
+
+
 section.jumbotron.about,
 section.jumbotron.bio {
 	background-color: #fcedf7;
